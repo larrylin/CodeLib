@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">第1个Activity</string>
+    <string name="app_name">LeftRightSlide</string>
+    <string name="silde">切换</string>
+	<string name="sec">第2个Activity</string>
+</resources>
